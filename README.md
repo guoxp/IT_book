@@ -12,18 +12,18 @@
 - [面试宝典](#面试宝典)
 - [数据结构与算法相关书籍](#数据结构与算法相关书籍)
 - [计算机基础](#计算机基础)
- - [计算机网络](#计算机网络)
- - [计算机组成原理](#计算机组成原理)
- - [汇编语言](#汇编语言)
- - [操作系统](#操作系统)
+  - [计算机网络](#计算机网络)
+  - [计算机组成原理](#计算机组成原理)
+  - [汇编语言](#汇编语言)
+  - [操作系统](#操作系统)
 - [C语言](#C语言) 
 - [python系列](#python系列)
- - [python基础](#python基础)
- - [数据分析与爬虫](#数据分析与爬虫)
+  - [python基础](#python基础)
+  - [数据分析与爬虫](#数据分析与爬虫)
 - [人工智能AI系列](#人工智能AI系列)
- - [深度学习框架-tensorflow](#深度学习框架-tensorflow)
- - [深度学习框架-pytorch](#深度学习框架-pytorch)
- - [深度学习框架-keras](#深度学习框架-keras)
+  - [深度学习框架-tensorflow](#深度学习框架-tensorflow)
+  - [深度学习框架-pytorch](#深度学习框架-pytorch)
+  - [深度学习框架-keras](#深度学习框架-keras)
 # 面试宝典
 - 程序员的算法趣题       [百度云下载链接](https://pan.baidu.com/s/1nW6j_0PjpecwgblpseEE2g )  密码:5vnv
 - 程序员代码面试指南：IT 名企算法与数据结构题目最优解      [百度云下载链接](https://pan.baidu.com/s/10u8cLRCgBE4c4DsB0Zn3IA)  密码:5jpz
@@ -39,7 +39,7 @@
 - 程序员代码面试指南：IT 名企算法与数据结构题目最优解      [百度云下载链接](https://pan.baidu.com/s/1KUTq3G7DIqwIPMandyFmVg)  密码:kfga
 
 
-#数据结构与算法相关书籍
+# 数据结构与算法相关书籍
 - 算法（第4版）      [百度云下载链接](https://pan.baidu.com/s/1GJ8rE9qQYcrW3ovYkK3bdA)  密码:vdg6 
 - 剑指offer      [百度云下载链接](https://pan.baidu.com/s/1BLSt2i_QrR_2jDmEeK2PPA)  密码:ttfn 
 - Java数据结构和算法      [百度云下载链接](https://pan.baidu.com/s/1LmGhE83W4yzI7ZXcEi-cTw)  密码:a5am
@@ -52,7 +52,7 @@
 
 
 
-#计算机基础
+# 计算机基础
 ### 计算机网络
 - HTTP权威指南     [百度云下载链接](https://pan.baidu.com/s/1uWxxIC-AEXM16YQEWojCVg)  密码:koaj
 - 计算机网络     [百度云下载链接](https://pan.baidu.com/s/10TA2eSZu8-e_pqpj9psrMQ)  密码:4519
