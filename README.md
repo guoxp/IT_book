@@ -1,8 +1,11 @@
 程序员必修内功，收集了上千本各类编程书籍，C,C++,Java,Python，机器学习,深度学习,Linux等等,还收集了很多英文原版书籍，看不惯中文的也可以选择英文哦。这些书籍都是我经过平时的积累，到处收集下来的，可以说是很全面了。数目会随着时间而增加，当你想要找一本与互联网相关的书籍时，可以优先来看看我这里有没有哦，万一有呢，是吧。
 
+**若存在链接失效加我微信把，第一时间把书籍发给你，记得备注来意哦**,微信号：**zijietiaodongpro**  ,哈哈哈就是**字节跳动**pro，因为博主有个愿望，能够去字节跳动实习工作，哈哈哈，所以当初改名的时候就取名叫zijietiaodongpro,哎可惜的是zijietiaodong被人用了，可惜老。我就只能加一个pro了。如果觉得还可以欢迎**Star，分享**哦，博主在此谢谢大家啦。祝好！
+
 这里推荐一个优秀的公众号【**五角钱的程序员**】，博主是一名在读计算机技术硕士研究生，里面有程序员必修内功，算法，python数据分析，linux,Java，机器学习，深度学习，自然语言处理、面试宝典，面试经验等等，还有博主的一些**经历与感悟**。我们一起成长，一起学习。一直纯真着，善良着，温情地热爱生活。
 
 ![我的公众号：【五角钱的程序员】，搜索搜索这个名称即可找到](https://github.com/XiangLinPro/IT_book/blob/master/%E4%BA%94%E8%A7%92%E9%92%B1%E7%A8%8B%E5%BA%8F%E5%91%98%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
+
 
 > **如果目录无法跳转的话，直接拉下去就可以了**，有时候浏览器的原因存在无法跳转
 
@@ -15,11 +18,12 @@
   - [计算机组成原理](#计算机组成原理)
   - [汇编语言](#汇编语言)
   - [操作系统](#操作系统)
-- [C语言](#C语言) 
 - [python系列](#python系列)
   - [python基础](#python基础)
   - [数据分析与爬虫](#数据分析与爬虫)
 - [人工智能AI系列](#人工智能AI系列)
+  - [计算机视觉](#计算机视觉)
+  - [OpenCv](#OpenCv)
   - [深度学习框架-tensorflow](#深度学习框架-tensorflow)
   - [深度学习框架-pytorch](#深度学习框架-pytorch)
   - [深度学习框架-keras](#深度学习框架-keras)
@@ -28,6 +32,12 @@
   - [理论-周志华（机器学习）李航（统计学原理）等](#理论-周志华（机器学习）李航（统计学原理）等)
   - [自然语言处理(NLP)](#自然语言处理(NLP))
 - [AI面试系列](#AI面试系列)
+- [大数据系列](#大数据系列)
+  - [Hadoop](#Hadoop)
+  - [Spark](#Spark)
+  - [Scala](#Scala)
+  - [其他](#其他)
+- [C语言](#C语言) 
 - [C++](#C++)
 - [Java](#Java)
   - [Java基础](#Java基础)
@@ -39,6 +49,7 @@
 - [Linux](#Linux)
 - [GO](#Go)
 - [Git](#Git)
+- [声明][#声明]
 # 面试宝典
 - 程序员的算法趣题       [百度云下载链接](https://pan.baidu.com/s/1nW6j_0PjpecwgblpseEE2g )  密码:5vnv
 - 程序员代码面试指南：IT 名企算法与数据结构题目最优解      [百度云下载链接](https://pan.baidu.com/s/10u8cLRCgBE4c4DsB0Zn3IA)  密码:5jpz
@@ -93,17 +104,7 @@
 - 程序是怎样跑起来的     [百度云下载链接](https://pan.baidu.com/s/1fLCeujbZ9w5pIv1uVtIQVQ)  密码:i9go
 - 现代操作系统     [百度云下载链接](https://pan.baidu.com/s/1fHDAv6_An9dTHkPxFPktFw)  密码:6gg7
 
-# C语言
-- C Primer Plus     [百度云下载链接](https://pan.baidu.com/s/1uKLaF1_TlHrcLZCe9Th5bw)  密码:njif
-- C和指针     [百度云下载链接](https://pan.baidu.com/s/1D1C93Y6qcwC3Z7lv3hpEeA)  密码:22lz
-- C专家编程     [百度云下载链接](https://pan.baidu.com/s/19cSD4k4d5cdu0nZWZq4MRg)  密码:eik1
-- C语言解析教程     [百度云下载链接](https://pan.baidu.com/s/1ARQBYbjWKgZq7jJVl8GPfw)  密码:o9ej
-- C程序设计语言-各种版本的C程序设计语言及其课后题答案     [百度云下载链接](https://pan.baidu.com/s/1ssyYVh0ZtSKko1hXYI2_pQ)  密码:5zl9
-- 经典C程序100例     [百度云下载链接](https://pan.baidu.com/s/1wj32oi-7pwjjGPamCzcdAw)  密码:ww8k
-- C语言编程精粹     [百度云下载链接](https://pan.baidu.com/s/1p6pZovi4UmQAdzO253nKKg)  密码:22df
-- C语言参考手册     [百度云下载链接](https://pan.baidu.com/s/1E4zVZDD-HFOkI9xVIEs9Fg)  密码:db3g
-- C语言函数大全     [百度云下载链接](https://pan.baidu.com/s/1GQfFi9qtN_cnykkFsv9Zjg)  密码:14cm
-- C语言深度剖析     [百度云下载链接](https://pan.baidu.com/s/1UL5R9cF3oipNXguQZ2xsCA)  密码:2lvj
+
 
 # python系列
 ### python基础
@@ -134,7 +135,17 @@
 - Python数据科学手册     [百度云下载链接](https://pan.baidu.com/s/1MKs9PwnctsM9PPWZWq4eEQ)  密码:m4q4
 - 用Python写网络爬虫     [百度云下载链接](https://pan.baidu.com/s/1wVbngJq3THdAYGtFXxnI5Q)  密码:ni0k
 
+链接：https://pan.baidu.com/s/13YYkO2XrLwrS9uzavQIDnA 
+提取码：6gx2
 # 人工智能AI系列
+### 计算机视觉
+- Computer vision     [百度云下载链接](https://pan.baidu.com/s/1RWVTJMFLgOoZXpr7-bm1BA)  密码:8z7n
+- 图像处理分析与机器视觉(第二版)中译本     [百度云下载链接](https://pan.baidu.com/s/19cXcCHFyBcEf1giY_tyEwg)  密码:u6i6
+- python计算机视觉     [百度云下载链接](https://pan.baidu.com/s/13YYkO2XrLwrS9uzavQIDnA)  密码:6gx2
+
+### OpenCv
+- OpenCV-Python-Tutorial-中文版     [百度云下载链接](https://pan.baidu.com/s/1OyE0XoTQzJ_iQD3TziltZg)  密码:b3pn
+
 ### 深度学习框架-tensorflow
 - TensorFlow 实战_黄文坚（完整）     [百度云下载链接](https://pan.baidu.com/s/1cdosRiSsP5lJ8f1bHdlP3g)  密码:j199
 - TensorFlow 面向机器智能的TensorFlow实践 (智能系统与技术丛书)     [百度云下载链接](https://pan.baidu.com/s/1gSB9NQ9nS9cr7tSc357bBQ)  密码:t3z9
@@ -175,6 +186,40 @@
 # AI面试系列
 - 机器学习     [百度云下载链接](https://pan.baidu.com/s/1c_l3NDD_BCmKWY1LJqozVQ)  密码:19bk
 - 机器学习常见面试题     [百度云下载链接](https://pan.baidu.com/s/1n53vfCNDbe8kWSTZdW7rNA)  密码:8w3r
+
+
+# 大数据系列
+### Hadoop
+- Hadoop The Definitive Guide     [百度云下载链接](https://pan.baidu.com/s/1fZohTOxScoH44_5LNETZsw)  密码:fz20
+### Spark
+- Spark大数据处理：技术、应用与性能优化(全)     [百度云下载链接](https://pan.baidu.com/s/1YmOgV7N6UsxjsW27W_VcEg )  密码:t4cn
+- Spark最佳实践     [百度云下载链接](https://pan.baidu.com/s/1WOAb6iOdrx-M1UzTrrIn0A)  密码:963f
+- 图解Spark++核心技术与案例实战     [百度云下载链接](https://pan.baidu.com/s/1Z3_v8G6PzQ6E6WUXvn6_KA)  密码:ju28
+- Spark快速大数据分析     [百度云下载链接](https://pan.baidu.com/s/1Xk9YSD7NCc_tofmyXIWI9A)  密码:9ai8
+- 深入理解Spark：核心思想与源码分析     [百度云下载链接](https://pan.baidu.com/s/1hdC0kvxFP_grpFRhj0qltQ)  密码:mopd
+
+### Scala
+- Scala编程中文版(33章全)     [百度云下载链接](https://pan.baidu.com/s/1YCVBnHp6ud0HYR8Cd5DNYQ)  密码:wkmi
+
+### 其他
+- 大数据架构师指南     [百度云下载链接](https://pan.baidu.com/s/14Rxan_IhRKCfpr7GJFeQ2Q)  密码:3dtd
+- 大数据之路：阿里巴巴大数据实践     [百度云下载链接](https://pan.baidu.com/s/1WTZjCmuwlaBUTxTAaBjgpg)  密码:5123
+- Apache+Kylin权威指南     [百度云下载链接](https://pan.baidu.com/s/1vVjn9tP-Z_QK7AaasyCj7A)  密码:0ypz
+- Kafka & Mafka技术分享及讨论     [百度云下载链接](https://pan.baidu.com/s/1BbNHZGFHioSoBQ4Zm3Jnfg)  密码:w7qs
+
+
+# C语言
+- C Primer Plus     [百度云下载链接](https://pan.baidu.com/s/1uKLaF1_TlHrcLZCe9Th5bw)  密码:njif
+- C和指针     [百度云下载链接](https://pan.baidu.com/s/1D1C93Y6qcwC3Z7lv3hpEeA)  密码:22lz
+- C专家编程     [百度云下载链接](https://pan.baidu.com/s/19cSD4k4d5cdu0nZWZq4MRg)  密码:eik1
+- C语言解析教程     [百度云下载链接](https://pan.baidu.com/s/1ARQBYbjWKgZq7jJVl8GPfw)  密码:o9ej
+- C程序设计语言-各种版本的C程序设计语言及其课后题答案     [百度云下载链接](https://pan.baidu.com/s/1ssyYVh0ZtSKko1hXYI2_pQ)  密码:5zl9
+- 经典C程序100例     [百度云下载链接](https://pan.baidu.com/s/1wj32oi-7pwjjGPamCzcdAw)  密码:ww8k
+- C语言编程精粹     [百度云下载链接](https://pan.baidu.com/s/1p6pZovi4UmQAdzO253nKKg)  密码:22df
+- C语言参考手册     [百度云下载链接](https://pan.baidu.com/s/1E4zVZDD-HFOkI9xVIEs9Fg)  密码:db3g
+- C语言函数大全     [百度云下载链接](https://pan.baidu.com/s/1GQfFi9qtN_cnykkFsv9Zjg)  密码:14cm
+- C语言深度剖析     [百度云下载链接](https://pan.baidu.com/s/1UL5R9cF3oipNXguQZ2xsCA)  密码:2lvj
+
 
 # C++
 - C++大学教程     [百度云下载链接](https://pan.baidu.com/s/1u0xKMjQyLeytrn0ZV7_amw)  密码:cuvn
@@ -228,7 +273,7 @@
 - SQL查询的艺术     [百度云下载链接](https://pan.baidu.com/s/1Fucoluf9TQn9a6Vq-XchPA)  密码:xfrz
 - MySQL必知必会     [百度云下载链接](https://pan.baidu.com/s/1xKPH21U4OJwWWqV4gWX0hQ)  密码:hwk3 
 - 高性能MySQL     [百度云下载链接](https://pan.baidu.com/s/1G1E-HucJYQ32lvtlIZJbPw)  密码:sjp8
-- MySQL技术内幕InnoDB存储引擎     [百度云下载链接]https://pan.baidu.com/s/1PKjeIt5Wrq9hRkYxA3YMtg)  密码:lsto
+- MySQL技术内幕InnoDB存储引擎     [百度云下载链接](https://pan.baidu.com/s/1PKjeIt5Wrq9hRkYxA3YMtg)  密码:lsto
 - MongoDB权威指南     [百度云下载链接](https://pan.baidu.com/s/1pdCKtNdA2YLMzgmbfMs5kQ)  密码:cw6a
 - SQLite 权威指南     [百度云下载链接](https://pan.baidu.com/s/18ldoXc9cWyQ78UROeud-SQ)  密码:b58t
 
@@ -270,3 +315,5 @@
 - 专业git中文     [百度云下载链接](https://pan.baidu.com/s/1nx2_xQ71na8p7JYtL59J5A)  密码:lsdl
 - Git参考手册     [百度云下载链接](https://pan.baidu.com/s/18QC1-p_yGw4ILqB-v8XPHw)  密码:qq2v
 
+# 声明
+本项目收藏这些年来看过或者听过的一些不错的书籍，在整理文件时看见这些，发现删掉有点可惜，放着又太浪费空间，本着分享的原则，就把它们共享出来，一方面给需要的读者提供这些书籍，另一方面也是一种像知识库的积累吧。若是存在侵权，联系我删除相应链接 邮箱地址：xianglinpro@163.com
