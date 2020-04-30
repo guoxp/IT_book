@@ -49,7 +49,7 @@
 - [Linux](#Linux)
 - [GO](#Go)
 - [Git](#Git)
-- [声明][#声明]
+- [声明](#声明)
 # 面试宝典
 - 程序员的算法趣题       [百度云下载链接](https://pan.baidu.com/s/1nW6j_0PjpecwgblpseEE2g )  密码:5vnv
 - 程序员代码面试指南：IT 名企算法与数据结构题目最优解      [百度云下载链接](https://pan.baidu.com/s/10u8cLRCgBE4c4DsB0Zn3IA)  密码:5jpz
@@ -145,6 +145,8 @@
 
 ### OpenCv
 - OpenCV-Python-Tutorial-中文版     [百度云下载链接](https://pan.baidu.com/s/1OyE0XoTQzJ_iQD3TziltZg)  密码:b3pn
+- 学习OpenCV 3 中文版     [百度云下载链接](https://pan.baidu.com/s/1ignJ07VCNLbMvJM3OWD3gA)  密码:3s4s
+
 
 ### 深度学习框架-tensorflow
 - TensorFlow 实战_黄文坚（完整）     [百度云下载链接](https://pan.baidu.com/s/1cdosRiSsP5lJ8f1bHdlP3g)  密码:j199
@@ -165,6 +167,10 @@
 - deeplearning深度学习笔记     [百度云下载链接](https://pan.baidu.com/s/1LL4nBvQ09Idy-6IAWeZzig)  密码:aaxv
 - 深度学习_中文版     [百度云下载链接](https://pan.baidu.com/s/1xh5CIyelL2traBRPm-c6LA)  密码:nq4w
 - 深度学习入门：基于Python的理论与实现     [百度云下载链接](https://pan.baidu.com/s/10cquG__AurkTacnp6iKJcA)  密码:lvj7
+- 常用推荐算法（50页干货）     [百度云下载链接](https://pan.baidu.com/s/1LU6UlFTiSUSjwCQq2XLXlA)  密码:wiqd
+- 动手学深度学习-李沐     [百度云下载链接](https://pan.baidu.com/s/1Ox8cTBwxUia2oZawvGMqsg)  密码:f33l
+- 深度学习(最全的中文版)     [百度云下载链接](https://pan.baidu.com/s/1R5SvO6kACs16aMO3kV9MlA)  密码:cxxi
+
 
 ### 机器学习实战
 - 机器学习实战（附所有代码）     [百度云下载链接](https://pan.baidu.com/s/12X5DytiNakii3mbeHM78E)  密码:4wto
@@ -186,6 +192,7 @@
 # AI面试系列
 - 机器学习     [百度云下载链接](https://pan.baidu.com/s/1c_l3NDD_BCmKWY1LJqozVQ)  密码:19bk
 - 机器学习常见面试题     [百度云下载链接](https://pan.baidu.com/s/1n53vfCNDbe8kWSTZdW7rNA)  密码:8w3r
+- 百面_机器学习 算法工程师带你去面试。高清版带书签     [百度云下载链接](https://pan.baidu.com/s/1eu4Rupr8oeKBZ1rsQO3mqQ )  密码:l8wo
 
 
 # 大数据系列
