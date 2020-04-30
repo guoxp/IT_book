@@ -1,11 +1,10 @@
-# IT_book
 程序员必修内功，收集了上千本各类编程书籍，C,C++,Java,Python，机器学习,深度学习,Linux等等,还收集了很多英文原版书籍，看不惯中文的也可以选择英文哦。这些书籍都是我经过平时的积累，到处收集下来的，可以说是很全面了。数目会随着时间而增加，当你想要找一本与互联网相关的书籍时，可以优先来看看我这里有没有哦，万一有呢，是吧。
 
-这里推荐一个优秀的公众号【**五角钱的程序员**】，博主是一名在读计算机技术硕士研究生，里面有程序员必修内功，算法，python数据分析，linux,Java，面试宝典，面试经验等等，还有博主的一些**经历与感悟**。我们一起成长，一起学习。一直纯真着，善良着，温情地热爱生活。
+这里推荐一个优秀的公众号【**五角钱的程序员**】，博主是一名在读计算机技术硕士研究生，里面有程序员必修内功，算法，python数据分析，linux,Java，机器学习，深度学习，自然语言处理、面试宝典，面试经验等等，还有博主的一些**经历与感悟**。我们一起成长，一起学习。一直纯真着，善良着，温情地热爱生活。
 
 ![我的公众号：【五角钱的程序员】，搜索搜索这个名称即可找到](https://github.com/XiangLinPro/IT_book/blob/master/%E4%BA%94%E8%A7%92%E9%92%B1%E7%A8%8B%E5%BA%8F%E5%91%98%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
 
-> **重要说明**：**如果目录无法跳转的话，直接拉下去就可以了**，这些书籍都是在同一个页面的，我只是方便大家找到对应的，弄了一个**页内目录**，不过有部分读者反馈他跳转不了（手机是绝对跳转不了的了）。
+> **如果目录无法跳转的话，直接拉下去就可以了**，有时候浏览器的原因存在无法跳转
 
 
 
@@ -24,6 +23,22 @@
   - [深度学习框架-tensorflow](#深度学习框架-tensorflow)
   - [深度学习框架-pytorch](#深度学习框架-pytorch)
   - [深度学习框架-keras](#深度学习框架-keras)
+  - [深度学习](#深度学习)
+  - [机器学习实战](#机器学习实战)
+  - [理论-周志华（机器学习）李航（统计学原理）等](#理论-周志华（机器学习）李航（统计学原理）等)
+  - [自然语言处理(NLP)](#自然语言处理(NLP))
+- [AI面试系列](#AI面试系列)
+- [C++](#C++)
+- [Java](#Java)
+  - [Java基础](#Java基础)
+  - [Java进阶](#Java进阶)
+  - [JavaWeb](#JavaWeb)
+- [设计模式](#设计模式)
+- [数据库](#数据库)
+- [前端](#前端)
+- [Linux](#Linux)
+- [GO](#Go)
+- [Git](#Git)
 # 面试宝典
 - 程序员的算法趣题       [百度云下载链接](https://pan.baidu.com/s/1nW6j_0PjpecwgblpseEE2g )  密码:5vnv
 - 程序员代码面试指南：IT 名企算法与数据结构题目最优解      [百度云下载链接](https://pan.baidu.com/s/10u8cLRCgBE4c4DsB0Zn3IA)  密码:5jpz
@@ -134,4 +149,124 @@
 ### 深度学习框架-keras
 - Python For Data Science Cheat Sheet Keras     [百度云下载链接](https://pan.baidu.com/s/1ODoojrUQl8rPFV2kxM1cbg)  密码:b8ll
 - Keras中文手册     [百度云下载链接](https://pan.baidu.com/s/1t83iFvuIxJRJ6W_j77Bafw)  密码:w5df
+
+### 深度学习
+- deeplearning深度学习笔记     [百度云下载链接](https://pan.baidu.com/s/1LL4nBvQ09Idy-6IAWeZzig)  密码:aaxv
+- 深度学习_中文版     [百度云下载链接](https://pan.baidu.com/s/1xh5CIyelL2traBRPm-c6LA)  密码:nq4w
+- 深度学习入门：基于Python的理论与实现     [百度云下载链接](https://pan.baidu.com/s/10cquG__AurkTacnp6iKJcA)  密码:lvj7
+
+### 机器学习实战
+- 机器学习实战（附所有代码）     [百度云下载链接](https://pan.baidu.com/s/12X5DytiNakii3mbeHM78E)  密码:4wto
+- PYTHON机器学习及实践－**从零开始通往KAGGLE竞赛之路**     [百度云下载链接](https://pan.baidu.com/s/1qTGsUkhRCAbIeszRZzpnNg)  密码:z87v
+- 贝叶斯思维统计建模的Python学习法     [百度云下载链接](https://pan.baidu.com/s/1iok5j7-kABCtoid8YoEryA)  密码:6qby
+
+### 理论-周志华（机器学习）李航（统计学原理）等
+- 机器学习_周志华     [百度云下载链接](https://pan.baidu.com/s/1XabgcxQUp0udkn00b0uqfw)  密码:oug5
+- 统计学习方法-李航     [百度云下载链接](https://pan.baidu.com/s/1u1q37b8vQBwUOck5vTE1Uw)  密码:yu0u
+
+### 自然语言处理(NLP)
+- 斯坦福CS224n_自然语言处理与深度学习    [百度云下载链接](https://pan.baidu.com/s/1S5kBuHhtCKXlB3k6IuuDyw)  密码:n7rx
+- Writing Code for NLP Research     [百度云下载链接](https://pan.baidu.com/s/1sT7kKilkXxedYv4Dog_adg)  密码:am91
+- 语音与语言处理Speech+and+Language+Processing     [百度云下载链接](https://pan.baidu.com/s/1Zu_PUmLiB9n3nDcagCsv4Q)  密码:4ysu
+- deep_learning_for_nlp     [百度云下载链接](https://pan.baidu.com/s/1hgmnPVKhpc8lxOp_Onfvng)  密码:r2ma
+- Embedding Methods for NLP emnlp tutorial     [百度云下载链接](https://pan.baidu.com/s/1CaS0DWw5uSvHXCsz6VkfVA)  密码:g1oy
+- PYTHON自然语言处理中文翻译 NLTK 中文版     [百度云下载链接](https://pan.baidu.com/s/1xJHF99KX011C-KluEaNq7w)  密码:112z
+
+# AI面试系列
+- 机器学习     [百度云下载链接](https://pan.baidu.com/s/1c_l3NDD_BCmKWY1LJqozVQ)  密码:19bk
+- 机器学习常见面试题     [百度云下载链接](https://pan.baidu.com/s/1n53vfCNDbe8kWSTZdW7rNA)  密码:8w3r
+
+# C++
+- C++大学教程     [百度云下载链接](https://pan.baidu.com/s/1u0xKMjQyLeytrn0ZV7_amw)  密码:cuvn
+- STL源码剖析     [百度云下载链接](https://pan.baidu.com/s/1fLWhQnmVyksk3BpmG_zGfQ )  密码:o9rv
+- C++编程思想     [百度云下载链接](https://pan.baidu.com/s/1Uyt9Uhv7Jy80ykzPwes9Yg)  密码:q97e
+- C++沉思录中文第2版     [百度云下载链接](https://pan.baidu.com/s/1VvGqaVso5eqIEMoeGkOpLA)  密码:xrxv
+- C++ Primer     [百度云下载链接](https://pan.baidu.com/s/11uKddTH2DhpKMILljyh0bw)  密码:aeao
+- 深入探索C++对象模型     [百度云下载链接](https://pan.baidu.com/s/1wKHreRYK1ngSmAjU3LUjNQ)  密码:qltd
+- C++对象模型     [百度云下载链接](https://pan.baidu.com/s/1RhaifqkDc2D125yg1SmlmQ)  密码:6zpm
+- C++ Templates     [百度云下载链接](https://pan.baidu.com/s/1xZXozU-d8dEOBzezqLf8Vg)  密码:rmt1
+- C++编程规范-101条规则准则与最佳实践     [百度云下载链接](https://pan.baidu.com/s/1ymum8hAGzObRG8stFYNddg)  密码:7f7s
+- C++设计新思维-泛型编程与设计之应用     [百度云下载链接](https://pan.baidu.com/s/1Ht1Ji11v52P_p4gY6osuvA)  密码:nail
+- Effective STL 中文版     [百度云下载链接](https://pan.baidu.com/s/16kaPHB9MgHVamNX6K84Z5w)  密码:86q5
+- More Effective C++中文版     [百度云下载链接](https://pan.baidu.com/s/13sO6Ct64A-SHBdCeL0JgsA)  密码:c7av
+
+# Java
+### Java基础
+- 码出高效     [百度云下载链接](https://pan.baidu.com/s/1Nu-r8G8EAIo62J4FzYoKVw)  密码:nedl
+- Head First Java     [百度云下载链接](https://pan.baidu.com/s/16zkC7riCEo3Cnt-3BllUJg)  密码:f39y
+- Java并发编程实践     [百度云下载链接](https://pan.baidu.com/s/1gSyCcJl2OheOqkQhHtfTNg)  密码:fwhs
+- Java从小白到大牛     [百度云下载链接](https://pan.baidu.com/s/1FFxvNltEY34Pba_dRd_kqg)  密码:tolg
+- 深入理解Java虚拟机     [百度云下载链接](https://pan.baidu.com/s/1pYyEgyf5kl9tQB-XGd32EQ)  密码:vfzi
+- Java8实战     [百度云下载链接](https://pan.baidu.com/s/1rTV7cC382rUWxpb7U8WCRA)  密码:57bv
+- Java编程思想     [百度云下载链接](https://pan.baidu.com/s/1JITtexXMiLCwQlW5YI2GRQ)  密码:8xli
+- Java并发编程的艺术     [百度云下载链接](https://pan.baidu.com/s/1xhFNTE1ywJxmhvDuemqo5A)  密码:tauv
+- 阿里巴巴Java开发手册     [百度云下载链接](https://pan.baidu.com/s/1HYeuwkENhh2Nbfav1WI1lw)  密码:98zo
+
+### Java进阶
+- 代码大全     [百度云下载链接](https://pan.baidu.com/s/1dfRdyevYc7xVPjb0wcja6Q)  密码:o3zq
+- Java性能优化权威指南     [百度云下载链接](https://pan.baidu.com/s/1ClJMQlWPq6FDb_XJxleizQ)  密码:4tfv
+- 敏捷软件开发     [百度云下载链接](https://pan.baidu.com/s/1iYeZ5AqyQLBTDuug5_rnSA)  密码:8uqr
+- Effective Java     [百度云下载链接](https://pan.baidu.com/s/1m7OVyyhgjbs6HSIt_zeRvw)  密码:74ba
+- 代码整洁之道     [百度云下载链接](https://pan.baidu.com/s/1ATMm0vmDURZqxMv9lIht_g)  密码:0jco
+- Effective Java（**英文版**）     [百度云下载链接](https://pan.baidu.com/s/17VvfSKSdLWtezMcQYF7rqw)  密码:jk2z    
+
+### JavaWeb
+- 轻量级JavaEE企业应用实战     [百度云下载链接](https://pan.baidu.com/s/1AZUULdcVFSArx1Jbiz1I8w)  密码:uwge
+- Head First Servlet and JSP     [百度云下载链接](https://pan.baidu.com/s/1XQ4xBQvWxfhWhPp1y7WzMA)  密码:xlpu 
+- Maven实战     [百度云下载链接](https://pan.baidu.com/s/1hpGhWnn7wZFrI3PDzfvrvg)  密码:zjt5
+- Spring实战     [百度云下载链接](https://pan.baidu.com/s/1SSFmd3KewFbouXQL6N19xQ)  密码:z32s
+- 深入分析JavaWeb技术内幕     [百度云下载链接](https://pan.baidu.com/s/1WuOFZuBdeui2gohif0c-2g)  密码:2gcd
+- 深入剖析Tomcat     [百度云下载链接](https://pan.baidu.com/s/1Qr6WaBh_pkq-i8hIpu6f7A)  密码:o4tr
+- Camel in Action     [百度云下载链接](https://pan.baidu.com/s/1dbp0zXE6xs3XMiJYq04uNw)  密码:itrz
+
+# 设计模式
+- 研磨设计模式     [百度云下载链接](https://pan.baidu.com/s/196JsKSEtDoKYZB3yYIigjg)  密码:a0xy
+- 图解设计模式     [百度云下载链接](https://pan.baidu.com/s/1JCX_9HtlWxHy9XcpXyoyTA)  密码:ba3z
+- Head First设计模式《important》     [百度云下载链接](https://pan.baidu.com/s/1v_7byjgNEwZCEisJltlzHA)  密码:v2rl
+
+# 数据库
+- SQL查询的艺术     [百度云下载链接](https://pan.baidu.com/s/1Fucoluf9TQn9a6Vq-XchPA)  密码:xfrz
+- MySQL必知必会     [百度云下载链接](https://pan.baidu.com/s/1xKPH21U4OJwWWqV4gWX0hQ)  密码:hwk3 
+- 高性能MySQL     [百度云下载链接](https://pan.baidu.com/s/1G1E-HucJYQ32lvtlIZJbPw)  密码:sjp8
+- MySQL技术内幕InnoDB存储引擎     [百度云下载链接]https://pan.baidu.com/s/1PKjeIt5Wrq9hRkYxA3YMtg)  密码:lsto
+- MongoDB权威指南     [百度云下载链接](https://pan.baidu.com/s/1pdCKtNdA2YLMzgmbfMs5kQ)  密码:cw6a
+- SQLite 权威指南     [百度云下载链接](https://pan.baidu.com/s/18ldoXc9cWyQ78UROeud-SQ)  密码:b58t
+
+# 前端
+- HTML5与CSS3基础教程     [百度云下载链接](https://pan.baidu.com/s/1uGoURdRyKOOspvHJSyor1w)  密码:7srp
+- Bootstrap实战     [百度云下载链接](https://pan.baidu.com/s/1Jw34Xuj2_2q9bICm3yFlkw)  密码:fnf0
+- jQuery高级编程     [百度云下载链接](https://pan.baidu.com/s/1Al0WLj-6tNKHfDr319XJ0w)  密码:zx8d
+- 疯狂aJax讲义     [百度云下载链接](https://pan.baidu.com/s/1Mc1fuKtqL-F9VYI4n3RxPQ)  密码:3szv
+- jQuery技术内幕     [百度云下载链接](https://pan.baidu.com/s/1tnr-VAMKqSDv0qjtu9rywA)  密码:crcu
+- JavaScript DOM编程艺术     [百度云下载链接](https://pan.baidu.com/s/1Un4NvZZ7x-HaOViCIcNNeA)  密码:rn2e
+- HTML5揭秘     [百度云下载链接](https://pan.baidu.com/s/1TfP15JglC7rgI_M1UaIimQ)  密码:g3av
+- 【JavaScript高级程序设计（第3版）】中文 高清     [百度云下载链接](https://pan.baidu.com/s/1-kWjkZ9taGTxnCdLRGqscg)  密码:2bnz
+- JavaScript高效图形编程     [百度云下载链接](https://pan.baidu.com/s/1yj4mh_aC8dXsIJn09UWPQQ)  密码:hxhk
+- jQuery权威指南     [百度云下载链接](https://pan.baidu.com/s/1e_bo4bQmBB1rrkAwB9xZ3Q)  密码:jgsq
+- Node.js开发指南     [百度云下载链接](https://pan.baidu.com/s/1GJ_dmgJMM6Bb2zBsOeH7hw)  密码:4bie
+- HTML5揭秘     [百度云下载链接](https://pan.baidu.com/s/1TfP15JglC7rgI_M1UaIimQ)  密码:g3av
+
+# Linux
+- 鸟哥的Linux私房菜     [百度云下载链接](https://pan.baidu.com/s/10tCGLa9y5G-VNefEexIDeQ)  密码:djoc
+- Linux高级程序设计     [百度云下载链接](https://pan.baidu.com/s/1oLBCW3lVBZLcSQnx5XbZMg)  密码:6d08
+- 汇编语言基于linux环境第3版     [百度云下载链接](https://pan.baidu.com/s/1fm7gt4qFiEMfNzAB5rfDfA)  密码:c7k8
+- Linux命令详解词典     [百度云下载链接](https://pan.baidu.com/s/18mp0g_eVLQPkhZSuvVBu1Q)  密码:ukq3
+- Linux防火墙     [百度云下载链接](https://pan.baidu.com/s/1i52MZc8FC9H8HKjL2uCfWA)  密码:14p6
+- 深入Linux内核架构     [百度云下载链接](https://pan.baidu.com/s/13TfK2DCWVxeMdV5Y40nDOw)  密码:h1k5
+- Linux环境编程     [百度云下载链接](https://pan.baidu.com/s/1BsPOjilroe6nHk3PXU-4Bg)  密码:fyrn
+- 精通正则表达式     [百度云下载链接](https://pan.baidu.com/s/1cP5pPjkSUyDUEdGeKbHHUw)  密码:jzgx
+- Linux常用命令大全     [百度云下载链接](https://pan.baidu.com/s/1t98pEifGrfUYqiLCMx5rgg)  密码:7v30
+
+
+# Go
+- Go语言实战     [百度云下载链接](https://pan.baidu.com/s/1v4LSutDDJgkm6Ag1GCnfQQ)  密码:3wmy
+- Go web编程     [百度云下载链接](https://pan.baidu.com/s/1mumaypjjR39ZzddL3IFYsg)  密码:3e3f
+- redis实战     [百度云下载链接](https://pan.baidu.com/s/1xJ9nJkeAsFF924uPEuMqqQ)  密码:ufxn
+- 学习Go语言     [百度云下载链接](https://pan.baidu.com/s/1vVCSRsMvaDwuTZi3iWtzQg)  密码:0hzt
+
+# Git
+- 《Pro Git》中文版     [百度云下载链接](https://pan.baidu.com/s/1-JIkWeIIRzJwP3h4-H2sQQ)  密码:1zrt
+- 快速入门Git     [百度云下载链接](https://pan.baidu.com/s/1jRUzM5KwK94FFTS2e86lyw)  密码:0u6n
+- 专业git中文     [百度云下载链接](https://pan.baidu.com/s/1nx2_xQ71na8p7JYtL59J5A)  密码:lsdl
+- Git参考手册     [百度云下载链接](https://pan.baidu.com/s/18QC1-p_yGw4ILqB-v8XPHw)  密码:qq2v
 
