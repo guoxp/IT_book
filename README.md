@@ -49,6 +49,8 @@
 - [Linux](#Linux)
 - [GO](#Go)
 - [Git](#Git)
+- [数字信号](#数字信号)
+- [提升能力](#提升能力)
 - [声明](#声明)
 # 面试宝典
 - 程序员的算法趣题       [百度云下载链接](https://pan.baidu.com/s/1nW6j_0PjpecwgblpseEE2g )  密码:5vnv
@@ -56,16 +58,13 @@
 - 大厂面试真题（阿里，华为，腾讯等）      [百度云下载链接](https://pan.baidu.com/s/13vTI5YFceCErwWtib6vYqg )  密码:9yvj
 - 黑客与画家      [百度云下载链接](https://pan.baidu.com/s/1zohjssvCWc5pQOGedvdIKA )  密码:arnc
 - Java面试突击      [百度云下载链接](https://pan.baidu.com/s/1cw2Y8cZVDj8WElQ7-OjDVg)  密码:70nv
-- 码农翻身      [百度云下载链接](https://pan.baidu.com/s/1blFwoNWdMmTfPyyvb_3s6w )  密码:5c26
-- 浪潮之巅      [百度云下载链接](https://pan.baidu.com/s/11I2DZtrgJaY1OvRJZg6FqQ )  密码:6416
-- 程序员面试宝典      [百度云下载链接](https://pan.baidu.com/s/1e9I4on3zsfNLE9WFqEZxhQ)  密码:ukzv
-- 奔跑吧，程序员：从零开始打造产品、技术和团队      [百度云下载链接](https://pan.baidu.com/s/1z5qWf3KR8wX5jur9YCoqj)  密码:8zt3
 - 阿里巴巴Java面试问题大全      [百度云下载链接](https://pan.baidu.com/s/1x_qrmzaeeW646y6GWmG1Iw)  密码:qkal
 - 程序员代码面试指南：IT 名企算法与数据结构题目最优解      [百度云下载链接](https://pan.baidu.com/s/1UVAlodW0U9c6KQlBb1VNXQ)  密码:l4fh
-- 程序员代码面试指南：IT 名企算法与数据结构题目最优解      [百度云下载链接](https://pan.baidu.com/s/1KUTq3G7DIqwIPMandyFmVg)  密码:kfga
+- 程序员的算法趣题      [百度云下载链接](https://pan.baidu.com/s/1KUTq3G7DIqwIPMandyFmVg)  密码:kfga
 
 
 # 数据结构与算法相关书籍
+- 漫画算法：小灰的算法之旅     [百度云下载链接](https://pan.baidu.com/s/11DmNMIHUiVr8SLbLRQ66Ng)  密码:o7yl
 - 算法（第4版）      [百度云下载链接](https://pan.baidu.com/s/1GJ8rE9qQYcrW3ovYkK3bdA)  密码:vdg6 
 - 剑指offer      [百度云下载链接](https://pan.baidu.com/s/1BLSt2i_QrR_2jDmEeK2PPA)  密码:ttfn 
 - Java数据结构和算法      [百度云下载链接](https://pan.baidu.com/s/1LmGhE83W4yzI7ZXcEi-cTw)  密码:a5am
@@ -125,6 +124,11 @@
 - 编程小白的第一本Python入门书     [百度云下载链接](https://pan.baidu.com/s/1mOd4uc4KA6YR-kgzzrm-fg)  密码:wetd
 
 ### 数据分析与爬虫
+- 《Python For Data Analysis》     [百度云下载链接](https://pan.baidu.com/s/1wnMLGxG-36OpFyy-pcqjuA)  密码:i3qf
+- 《Python3网络爬虫数据采集》     [百度云下载链接](https://pan.baidu.com/s/12i25hBdN78J4enP7yzQ4Yg)  密码:twas
+- Data Structures and Algorithms in Python     [百度云下载链接](https://pan.baidu.com/s/1PfnHX4fgHMoHkeLO9LdPVg )  密码:qxfn
+- Python for Data Analysis     [百度云下载链接](https://pan.baidu.com/s/1GZ9RtBCFJ2evxjSlTjd5rA )  密码:9g28
+- 《Python数据分析基础》     [百度云下载链接](https://pan.baidu.com/s/1c8f4q_l_2yT8xKq5OnHIIg )  密码:6q61
 - 利用python进行数据分析-第二版     [百度云下载链接](https://pan.baidu.com/s/16rFXmmNW9fQDkqT8YzsiSQ)  密码:2ekn
 - 利用Python进行数据分析     [百度云下载链接](https://pan.baidu.com/s/1EqIgxrYp_8n1gVvH3YGP3g)  密码:p4o3
 - Python数据分析实战     [百度云下载链接](https://pan.baidu.com/s/1ZLxV3rcc74Y1ofY1lqApkQ)  密码:rxaw
@@ -135,8 +139,7 @@
 - Python数据科学手册     [百度云下载链接](https://pan.baidu.com/s/1MKs9PwnctsM9PPWZWq4eEQ)  密码:m4q4
 - 用Python写网络爬虫     [百度云下载链接](https://pan.baidu.com/s/1wVbngJq3THdAYGtFXxnI5Q)  密码:ni0k
 
-链接：https://pan.baidu.com/s/13YYkO2XrLwrS9uzavQIDnA 
-提取码：6gx2
+
 # 人工智能AI系列
 ### 计算机视觉
 - Computer vision     [百度云下载链接](https://pan.baidu.com/s/1RWVTJMFLgOoZXpr7-bm1BA)  密码:8z7n
@@ -204,6 +207,8 @@
 - 图解Spark++核心技术与案例实战     [百度云下载链接](https://pan.baidu.com/s/1Z3_v8G6PzQ6E6WUXvn6_KA)  密码:ju28
 - Spark快速大数据分析     [百度云下载链接](https://pan.baidu.com/s/1Xk9YSD7NCc_tofmyXIWI9A)  密码:9ai8
 - 深入理解Spark：核心思想与源码分析     [百度云下载链接](https://pan.baidu.com/s/1hdC0kvxFP_grpFRhj0qltQ)  密码:mopd
+- Spark机器学习     [百度云下载链接](https://pan.baidu.com/s/1AEYKo_bxwtOXG0HErGLXqg)  密码:jmib
+
 
 ### Scala
 - Scala编程中文版(33章全)     [百度云下载链接](https://pan.baidu.com/s/1YCVBnHp6ud0HYR8Cd5DNYQ)  密码:wkmi
@@ -213,6 +218,7 @@
 - 大数据之路：阿里巴巴大数据实践     [百度云下载链接](https://pan.baidu.com/s/1WTZjCmuwlaBUTxTAaBjgpg)  密码:5123
 - Apache+Kylin权威指南     [百度云下载链接](https://pan.baidu.com/s/1vVjn9tP-Z_QK7AaasyCj7A)  密码:0ypz
 - Kafka & Mafka技术分享及讨论     [百度云下载链接](https://pan.baidu.com/s/1BbNHZGFHioSoBQ4Zm3Jnfg)  密码:w7qs
+- 【高扬】白话深度学习姊妹篇--白话大数据与ML     [百度云下载链接](https://pan.baidu.com/s/1O2lcJ-cvWTZjbKuGgLPdcw)  密码:d9yp
 
 
 # C语言
@@ -299,6 +305,7 @@
 - HTML5揭秘     [百度云下载链接](https://pan.baidu.com/s/1TfP15JglC7rgI_M1UaIimQ)  密码:g3av
 
 # Linux
+- Linux系统命令及shell脚本实践指南linuxunix技术丛书     [百度云下载链接](https://pan.baidu.com/s/1G1EI-amN7DN5Vuz8NLztKA )  密码:9d27
 - 鸟哥的Linux私房菜     [百度云下载链接](https://pan.baidu.com/s/10tCGLa9y5G-VNefEexIDeQ)  密码:djoc
 - Linux高级程序设计     [百度云下载链接](https://pan.baidu.com/s/1oLBCW3lVBZLcSQnx5XbZMg)  密码:6d08
 - 汇编语言基于linux环境第3版     [百度云下载链接](https://pan.baidu.com/s/1fm7gt4qFiEMfNzAB5rfDfA)  密码:c7k8
@@ -308,6 +315,8 @@
 - Linux环境编程     [百度云下载链接](https://pan.baidu.com/s/1BsPOjilroe6nHk3PXU-4Bg)  密码:fyrn
 - 精通正则表达式     [百度云下载链接](https://pan.baidu.com/s/1cP5pPjkSUyDUEdGeKbHHUw)  密码:jzgx
 - Linux常用命令大全     [百度云下载链接](https://pan.baidu.com/s/1t98pEifGrfUYqiLCMx5rgg)  密码:7v30
+
+
 
 
 # Go
@@ -321,6 +330,20 @@
 - 快速入门Git     [百度云下载链接](https://pan.baidu.com/s/1jRUzM5KwK94FFTS2e86lyw)  密码:0u6n
 - 专业git中文     [百度云下载链接](https://pan.baidu.com/s/1nx2_xQ71na8p7JYtL59J5A)  密码:lsdl
 - Git参考手册     [百度云下载链接](https://pan.baidu.com/s/18QC1-p_yGw4ILqB-v8XPHw)  密码:qq2v
+
+# 数字信号
+- 数字信号处理教程  第3版 by 程佩青 (z-lib.org)     [百度云下载链接](https://pan.baidu.com/s/11xO0H9pWiADvM9435OmlKw )  密码:tvmt
+
+
+
+# 提升能力
+- 重构：改善既有代码的设计（第2版）     [百度云下载链接](https://pan.baidu.com/s/1ZDP7cMNQppfyogJ6X53LVg)  密码:7lve
+- 码农翻身      [百度云下载链接](https://pan.baidu.com/s/1blFwoNWdMmTfPyyvb_3s6w )  密码:5c26
+- 浪潮之巅      [百度云下载链接](https://pan.baidu.com/s/11I2DZtrgJaY1OvRJZg6FqQ )  密码:6416
+- 程序员面试宝典      [百度云下载链接](https://pan.baidu.com/s/1e9I4on3zsfNLE9WFqEZxhQ)  密码:ukzv
+- 奔跑吧，程序员：从零开始打造产品、技术和团队      [百度云下载链接](https://pan.baidu.com/s/1z5qWf3KR8wX5jur9YCoqj)  密码:8zt3
+
+
 
 # 声明
 本项目收藏这些年来看过或者听过的一些不错的书籍，在整理文件时看见这些，发现删掉有点可惜，放着又太浪费空间，本着分享的原则，就把它们共享出来，一方面给需要的读者提供这些书籍，另一方面也是一种像知识库的积累吧。若是存在侵权，联系我删除相应链接 邮箱地址：xianglinpro@163.com
